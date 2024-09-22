@@ -1,30 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a1df7e-d3dd-493a-a3af-3982b066e2f1" name="Changes" comment="" />
+    <list default="true" id="f1a1df7e-d3dd-493a-a3af-3982b066e2f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/allure-results/1f567f38-fe5b-48c8-b30b-177a1a57d714-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b5d27a7-600e-4e33-aba0-fa2b81ae8dd4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b9368d1-12f3-4b07-9022-a2036eaed7cb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47ba6c5c-4f9e-46a7-a643-c49e75d2b2a8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/56a38b73-a0ca-4d43-9d21-f48e14ecdd93-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f9708aa-a1ed-4401-82a4-f809ff5220b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76596c6d-49ec-447e-a4b9-4c5af42bf491-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7a700e42-9267-4ca4-847d-ccaa7fcd92b2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9334ba88-3c4b-432e-ba74-a8a7f71dffa9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e7a5186a-0cb6-4d77-9e95-8ea8127a2e7d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f71c770f-9edf-46e8-9490-4115cff0e235-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f87ae174-cbb4-4c56-b736-e2383a9dc1d5-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fc77bb6c-97f4-403e-a202-dbb950f72c0f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ff88be9d-3e31-49a4-9318-3b4f982348a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/constants/Constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/pageObjects/pom/dashboardPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/ExcelReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/MySQLReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/utils/common_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/vwoLoginTests/test_vwo_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Py3xWebAutomationFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py3xWebAutomationFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/pageObjects/pom/Loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/pageObjects/pom/Loginpage.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vyshnavsvarma2000&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/vyshnavsvarma2000/Py3xWebAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;e608cdae-9fd4-4d66-9262-d5e4e790129c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2m8n0A40kSAtbFwX1QoLuztqWUh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +95,8 @@
       <updated>1726466845066</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

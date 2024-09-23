@@ -10,3 +10,8 @@ def webdriver_wait(driver, element_tuple):
 def webdriver_wait(driver, element_tuple, timeout):
     WebDriverWait(driver=driver, timeout=timeout).until(
         EC.visibility_of_element_located(element_tuple))
+
+
+def webdriver_wait_url(driver, timeout):
+    WebDriverWait(driver=driver, timeout=timeout).until(
+        EC.url_changes(Constants.app_dashboard_url()))
